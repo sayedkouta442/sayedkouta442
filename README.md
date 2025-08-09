@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsayed Kouta</h1>
-<h3 align="center">A passionate Flutter developer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Flutter developer from Egypt </h3>
 
 <p align="center">
   <a href="https://wa.me/201010220187" target="_blank">
