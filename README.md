@@ -1,70 +1,73 @@
-[# 🚀 Elsayed Kouta | Flutter Developer
+# 🚀 Elsayed Kouta | Senior Flutter Developer
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1F_SWAux9zO4MafHXlaQiyIElPE8SfwjM/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/DOWNLOAD_CV-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Download CV">
-  </a>
-  <a href="https://sayedkouta442.github.io/Elsayed_kouta_portfolio/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Live Portfolio">
-  </a>
+
+| 📄 [**Download Professional CV**](https://drive.google.com/file/d/1F_SWAux9zO4MafHXlaQiyIElPE8SfwjM/view?usp=drive_link) | 🌐 [**Visit Live Portfolio**](https://sayedkouta442.github.io/Elsayed_kouta_portfolio/) | 💬 [**Chat on WhatsApp**](https://wa.me/201010220187) |
+|:---:|:---:|:---:|
+
 </div>
 
 ---
 
-### 📱 About Me
-I am a **Mobile Application Developer** specializing in **Flutter & Dart**. I bridge the gap between complex business logic and seamless user experiences. My development philosophy centers on **Clean Architecture**, robust state management (**Bloc/Cubit**), and production-ready security standards.
+### 📱 Professional Summary
+I am a results-driven **Mobile Application Developer** with deep specialization in the **Flutter & Dart** ecosystem. I excel at architecting clean, scalable, and high-performance mobile solutions that solve complex business challenges, such as HR automation and educational gamification. My approach combines **Solid Principles**, **Clean Architecture**, and a user-centric design mindset to deliver production-ready applications published on global stores.
 
 ---
 
-### 🛠️ Featured Projects
-
-#### 🏫 [Marrah wa Tallam (Live on Play Store)](https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam&pcampaignid=web_share)
-An interactive educational platform designed to improve engagement through gamification, successfully published to the **Google Play Store**.
-* **Educational Tech:** Built-in **Text-to-Speech** engine to assist in pronunciation and reading skills.
-* **Architecture:** Built entirely offline-ready using modular Dart patterns to ensure accessibility for all students regardless of internet connectivity.
-* **Production Status:** Managed the full release cycle, including store optimization and deployment.
-
-#### 🚗 [Agency-Based Car Rental](https://github.com/sayedkouta442/car_rental)
-A full-stack rental marketplace designed for scale and high-traffic interaction.
-* **Core Tech:** Leveraged **Supabase** for real-time data and **Stripe** for secure payment processing.
-* **UX/UI:** Features map-based browsing for agencies, advanced multi-criteria filtering, and a switchable Light/Dark mode.
-* **Persistence:** Uses **Hive** for local caching of favorites and browsing history to ensure a high-performance experience.
-
-#### ⏱️ [Attendance & HR Management System](https://github.com/sayedkouta442/attendance_appp)
-Built to modernize workforce management by integrating directly with HR systems to eliminate administrative friction.
-* **Biometric Security:** Implemented **Face Recognition (Google ML Kit)** and Geolocation (OpenStreetMap) to prevent fraudulent check-ins and verify on-site presence.
-* **Automated Workflows:** Features a streamlined request/approval system for leave management and real-time attendance analytics for HR visibility.
-* **Reliable Core:** Powered by a **Supabase** backend and **Cubit** state management for transparent, biometric-validated records.
-
-#### 🏥 PageX — Community Driven
-A resource-sharing mobile platform built to handle high-frequency user interactions and community engagement.
-* **Real-time Engine:** Features live chat functionality and **FCM (Firebase Cloud Messaging)** for instant, production-ready notifications.
-* **Architecture:** Implements MVVM with modular design for future-proof scalability and high-frequency interaction handling. *(Currently in Development)*
-
-#### 🎬 [Movie Discovery App (TMDb)](https://github.com/sayedkouta442/movie_app)
-A high-performance media discovery tool crafted with a clean, scalable architecture and an **Offline-First** mindset.
-* **Advanced Networking:** Integrated the **TMDb API** with custom infinite scroll pagination for smooth content delivery.
-* **Security & Caching:** Utilized `flutter_secure_storage` for encrypted authentication and **Hive** for efficient local caching of movie data.
-* **Architecture:** Strictly followed **Clean Architecture** to ensure the code is lean, predictable, and fully testable.
-
----
-
-### 💼 Technical Expertise
-* **Frameworks:** Flutter, Dart, C++, Java
-* **State Management:** Bloc, Cubit
-* **Backends:** Firebase, Supabase, Hive, sqflite
-* **DevOps:** CI/CD (GitHub Actions), Google Play Store Management
-
----
-
-### 📫 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/elsayed-kouta-7183b8336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:koutaelsayed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedkouta442&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+### 🛠️ Core Technical Expertise
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
-](https://wa.me/201010220187)
+
+* **Advanced Frameworks:** Flutter, Dart, C++, and Java.
+* **State Management:** Expert-level implementation of **Bloc** and **Cubit** for predictable app behavior.
+* **Architecture:** Mastery of **MVVM** and **Clean Architecture** to ensure code maintainability and testability.
+* **Security & Networking:** Skilled in **Biometric Authentication (ML Kit)**, Geolocation, and secure API integration (Dio/Retrofit).
+* **Database Management:** Extensive experience with **Firebase, Supabase, Hive, sqflite,** and Shared Preferences.
+
+---
+
+### 🌟 Featured Projects
+
+#### 🏫 [Marrah wa Tallam](https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam&pcampaignid=web_share) — **Published on Google Play**
+An interactive educational platform designed to revolutionize the learning experience through gamification and intuitive UI/UX.
+* **Innovative Features:** Integrated a sophisticated **Text-to-Speech** engine for phonetic learning and gamified activities to maximize user engagement and retention.
+* **Architecture:** Built with a modular architecture and clean code practices, optimized for full **offline functionality**.
+
+#### 🚗 [Agency-Based Car Rental](https://github.com/sayedkouta442/car_rental) — **Full-Stack Ecosystem**
+A comprehensive car rental solution built for scale, featuring agency-based browsing and seamless booking.
+* **FinTech & Data:** Secure, real-time payment processing using **Stripe** and a robust **Supabase** backend.
+* **Optimized UX:** Features map-based discovery, filtered car search, light/dark mode, and persistent local caching with **Hive**.
+
+#### ⏱️ [Attendance & HR Management](https://github.com/sayedkouta442/attendance_appp) — **Biometric Validation**
+A sophisticated tool designed to simplify complex HR processes and eliminate administrative friction in workforce management.
+* **Security First:** Developed fraudulent-check-in protection using **Face Recognition (Google ML Kit)** and **Location-based validation**.
+* **Real-time Analytics:** Features streamlined leave requests, automated approvals, and detailed attendance history powered by a **Supabase** backend.
+
+#### 🏥 PageX — Community Driven 🚀 `SOON ON PLAY STORE`
+A dynamic resource-sharing platform built to handle high-frequency community interactions and real-time content exchange.
+* **Real-time Communication:** Built-in real-time chat and production-ready **FCM Notifications** for instant user engagement.
+* **Scalability:** Utilizing **MVVM architecture** and modular design to support future feature expansion and large user bases.
+
+#### 🎬 [Movie Discovery App](https://github.com/sayedkouta442/movie_app) — **Data-Driven UI**
+A sleek media discovery tool showcasing advanced API integration and high-performance list rendering.
+* **Tech Highlights:** Powered by the **TMDb API**, featuring **Cubit** for state management, `flutter_secure_storage` for security, and **Hive** for fast local caching.
+
+---
+
+### 📫 Let's Build Something Great
+<div align="left">
+  <a href="https://linkedin.com/in/elsayed-kouta-7183b8336/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:koutaelsayed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201010220187">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
