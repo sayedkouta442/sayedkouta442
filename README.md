@@ -50,31 +50,45 @@ I am a detail-oriented **Flutter Developer** with a solid foundation in Dart, mo
 
 ### 🌟 Featured Projects
 
-#### 🏫 [Marrah wa Tallam](https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam&pcampaignid=web_share) — **Published on Google Play Store**
-An interactive educational platform designed to improve engagement through gamification and intuitive UI/UX.
-* **Core Tech:** Integrated **Text-to-Speech** for phonetic learning and gamified rewards to maximize engagement.
-* **Architecture:** Modular Dart patterns optimized for **full offline functionality**.
+#### 🏫 [Marrah wa Tallam](https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam) — **Published on Play Store**
+An interactive educational platform built to revolutionize language learning through gamification.
+* **Smart Education:** Integrated a **Text-to-Speech (TTS)** engine to help students with correct pronunciation and reading fluency.
+* **Performance:** Developed with a **Modular Architecture** that supports complete offline access, ensuring students can learn anywhere without data constraints.
+* **User Engagement:** Implemented gamified progress tracking and interactive UI elements to increase daily active users and learning retention.
+
+<br>
 
 #### 🚗 [Agency-Based Car Rental](https://github.com/sayedkouta442/car_rental)
-A high-performance car rental ecosystem bridging the gap between agencies and customers.
-* **Integrations:** Real-time data sync with **Supabase** and secure payment processing via **Stripe**.
-* **Features:** Map-based agency discovery and **Hive** for ultra-fast local data persistence.
+A comprehensive marketplace ecosystem connecting rental agencies directly with users.
+* **Advanced Backend:** Powered by **Supabase** for real-time data synchronization and secure user authentication.
+* **Financial Integration:** Built-in **Stripe Payment Gateway** for secure, production-ready transactions.
+* **Experience Optimization:** Features map-based agency browsing, multi-criteria filtering, and **Hive** local caching for high-speed performance even on slow networks.
+
+<br>
 
 #### ⏱️ [Attendance & HR Management System](https://github.com/sayedkouta442/attendance_appp)
-Modern workforce management built to eliminate fraud and administrative overhead.
-* **Biometric Security:** Implemented **Face Recognition (Google ML Kit)** and Geolocation for verified check-ins.
-* **Efficiency:** Automated leave request workflows and real-time history tracking via **Supabase**.
+A high-security biometric solution designed to eliminate administrative friction in corporate environments.
+* **Biometric Security:** Integrated **Google ML Kit** for high-accuracy Face Recognition to prevent fraudulent "buddy punching."
+* **Location Validation:** Uses **OpenStreetMap (OSM)** and Geofencing to ensure employees are physically on-site before allowing check-ins.
+* **HR Workflow:** Automated the entire leave-request lifecycle with manager approval dashboards and real-time attendance analytics.
 
-#### 🏥 PageX — Community Driven 🚀 **`SOON ON PLAY STORE`**
-A resource-sharing platform built for high-frequency interaction and real-time community help.
-* **Engagement:** Built with **Firebase Cloud Messaging (FCM)** for production-ready instant notifications.
-* **Scalability:** Implements **MVVM** architecture for seamless feature expansion.
+<br>
+
+#### 🏥 PageX — Community Driven 🚀 **`COMING SOON ON PLAY STORE`**
+A modern resource-sharing platform designed for high-frequency community interaction.
+* **Real-time Engine:** Leverages **Firebase Cloud Messaging (FCM)** for instant push notifications and real-time chat for seamless community coordination.
+* **Scalable Architecture:** Built on a strict **MVVM** pattern with modular feature separation to allow for rapid scaling and future updates.
+* **Impact:** Designed to bridge the gap in resource distribution within local communities through a user-focused mobile experience.
+
+<br>
 
 #### 🎬 [Movie Discovery App (TMDb)](https://github.com/sayedkouta442/movie_app)
-A sleek, media discovery tool featuring advanced API integration and infinite scroll performance.
-* **Highlights:** TMDb API integration, **Cubit** state management, and **Hive** local caching.
+A data-driven media discovery tool showcasing mastery over API integration and state management.
+* **Clean Architecture:** Strictly followed Separation of Concerns (SoC) to make the codebase highly testable and lean.
+* **Tech Stack:** Utilized **Cubit** for efficient state handling, `flutter_secure_storage` for encrypted user data, and **Hive** for ultra-fast offline caching of movie metadata.
+* **UI/UX:** Features complex infinite-scroll pagination and responsive list rendering for a smooth, high-fidelity browsing experience.
 
 ---
 
 ### 📫 Let's Connect
-I'm always open to discussing new projects or mobile development opportunities!
+I'm always open to discussing new projects, code architecture, or mobile development opportunities!
