@@ -1,73 +1,80 @@
-# 🚀 Elsayed Kouta | Senior Flutter Developer
+<h1 align="center">Hi 👋, I'm Elsayed Kouta</h1>
+<h3 align="center">Flutter Developer</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://drive.google.com/file/d/1F_SWAux9zO4MafHXlaQiyIElPE8SfwjM/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/DOWNLOAD_MY_CV-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Download CV" height="48"/>
+  </a>
+  <a href="https://sayedkouta442.github.io/Elsayed_kouta_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Portfolio" height="48"/>
+  </a>
+  <a href="https://wa.me/201010220187" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP_ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="48"/>
+  </a>
+</p>
 
-| 📄 [**Download Professional CV**](https://drive.google.com/file/d/1F_SWAux9zO4MafHXlaQiyIElPE8SfwjM/view?usp=drive_link) | 🌐 [**Visit Live Portfolio**](https://sayedkouta442.github.io/Elsayed_kouta_portfolio/) | 💬 [**Chat on WhatsApp**](https://wa.me/201010220187) |
-|:---:|:---:|:---:|
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/elsayed-kouta-7183b8336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:koutaelsayed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100012939995404" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
-### 📱 Professional Summary
-I am a results-driven **Mobile Application Developer** with deep specialization in the **Flutter & Dart** ecosystem. I excel at architecting clean, scalable, and high-performance mobile solutions that solve complex business challenges, such as HR automation and educational gamification. My approach combines **Solid Principles**, **Clean Architecture**, and a user-centric design mindset to deliver production-ready applications published on global stores.
+### 👨‍💻 About Me
+
+I am a detail-oriented **Flutter Developer** with a solid foundation in Dart, mobile UI/UX, and clean architecture. I specialize in building responsive and scalable applications using state management tools like **Bloc and Cubit**. My focus is on delivering high-quality, production-ready mobile solutions with secure backends and seamless user experiences.
 
 ---
 
-### 🛠️ Core Technical Expertise
-<div align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
+### 🛠️ Languages and Tools
 
-* **Advanced Frameworks:** Flutter, Dart, C++, and Java.
-* **State Management:** Expert-level implementation of **Bloc** and **Cubit** for predictable app behavior.
-* **Architecture:** Mastery of **MVVM** and **Clean Architecture** to ensure code maintainability and testability.
-* **Security & Networking:** Skilled in **Biometric Authentication (ML Kit)**, Geolocation, and secure API integration (Dio/Retrofit).
-* **Database Management:** Extensive experience with **Firebase, Supabase, Hive, sqflite,** and Shared Preferences.
+<p align="left">
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/> </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
+    <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="45" height="45"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🏫 [Marrah wa Tallam](https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam&pcampaignid=web_share) — **Published on Google Play**
-An interactive educational platform designed to revolutionize the learning experience through gamification and intuitive UI/UX.
-* **Innovative Features:** Integrated a sophisticated **Text-to-Speech** engine for phonetic learning and gamified activities to maximize user engagement and retention.
-* **Architecture:** Built with a modular architecture and clean code practices, optimized for full **offline functionality**.
+#### 🏫 [Marrah wa Tallam](https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam&pcampaignid=web_share) — **Published on Google Play Store**
+An interactive educational platform designed to improve engagement through gamification and intuitive UI/UX.
+* **Core Tech:** Integrated **Text-to-Speech** for phonetic learning and gamified rewards to maximize engagement.
+* **Architecture:** Modular Dart patterns optimized for **full offline functionality**.
 
-#### 🚗 [Agency-Based Car Rental](https://github.com/sayedkouta442/car_rental) — **Full-Stack Ecosystem**
-A comprehensive car rental solution built for scale, featuring agency-based browsing and seamless booking.
-* **FinTech & Data:** Secure, real-time payment processing using **Stripe** and a robust **Supabase** backend.
-* **Optimized UX:** Features map-based discovery, filtered car search, light/dark mode, and persistent local caching with **Hive**.
+#### 🚗 [Agency-Based Car Rental](https://github.com/sayedkouta442/car_rental)
+A high-performance car rental ecosystem bridging the gap between agencies and customers.
+* **Integrations:** Real-time data sync with **Supabase** and secure payment processing via **Stripe**.
+* **Features:** Map-based agency discovery and **Hive** for ultra-fast local data persistence.
 
-#### ⏱️ [Attendance & HR Management](https://github.com/sayedkouta442/attendance_appp) — **Biometric Validation**
-A sophisticated tool designed to simplify complex HR processes and eliminate administrative friction in workforce management.
-* **Security First:** Developed fraudulent-check-in protection using **Face Recognition (Google ML Kit)** and **Location-based validation**.
-* **Real-time Analytics:** Features streamlined leave requests, automated approvals, and detailed attendance history powered by a **Supabase** backend.
+#### ⏱️ [Attendance & HR Management System](https://github.com/sayedkouta442/attendance_appp)
+Modern workforce management built to eliminate fraud and administrative overhead.
+* **Biometric Security:** Implemented **Face Recognition (Google ML Kit)** and Geolocation for verified check-ins.
+* **Efficiency:** Automated leave request workflows and real-time history tracking via **Supabase**.
 
-#### 🏥 PageX — Community Driven 🚀 `SOON ON PLAY STORE`
-A dynamic resource-sharing platform built to handle high-frequency community interactions and real-time content exchange.
-* **Real-time Communication:** Built-in real-time chat and production-ready **FCM Notifications** for instant user engagement.
-* **Scalability:** Utilizing **MVVM architecture** and modular design to support future feature expansion and large user bases.
+#### 🏥 PageX — Community Driven 🚀 **`SOON ON PLAY STORE`**
+A resource-sharing platform built for high-frequency interaction and real-time community help.
+* **Engagement:** Built with **Firebase Cloud Messaging (FCM)** for production-ready instant notifications.
+* **Scalability:** Implements **MVVM** architecture for seamless feature expansion.
 
-#### 🎬 [Movie Discovery App](https://github.com/sayedkouta442/movie_app) — **Data-Driven UI**
-A sleek media discovery tool showcasing advanced API integration and high-performance list rendering.
-* **Tech Highlights:** Powered by the **TMDb API**, featuring **Cubit** for state management, `flutter_secure_storage` for security, and **Hive** for fast local caching.
+#### 🎬 [Movie Discovery App (TMDb)](https://github.com/sayedkouta442/movie_app)
+A sleek, media discovery tool featuring advanced API integration and infinite scroll performance.
+* **Highlights:** TMDb API integration, **Cubit** state management, and **Hive** local caching.
 
 ---
 
-### 📫 Let's Build Something Great
-<div align="left">
-  <a href="https://linkedin.com/in/elsayed-kouta-7183b8336/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:koutaelsayed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201010220187">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
+### 📫 Let's Connect
+I'm always open to discussing new projects or mobile development opportunities!
