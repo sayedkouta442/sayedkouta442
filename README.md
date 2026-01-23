@@ -33,9 +33,8 @@
 
 ## 👨‍💻 Experience
 
-Flutter Developer with hands-on experience building **production-ready mobile applications using Flutter & Dart**, including **apps published on Google Play Store**.  
-I specialize in creating **interactive, user-focused applications** with clean architecture and scalable codebases.  
-Through **freelance and independent projects**, I have delivered real-world features such as **payments, maps, real-time communication, push notifications, offline support, and secure authentication**, always focusing on performance, usability, and maintainability.
+Flutter Developer with hands-on experience building **production-ready mobile applications** using Flutter & Dart, including **apps published on Google Play Store**.  
+I focus on developing **user-focused mobile solutions** with clean architecture, scalable codebases, and real-world features such as payments, maps, real-time communication, push notifications, offline support, and secure authentication through freelance and independent projects.
 
 ---
 
@@ -45,148 +44,126 @@ Through **freelance and independent projects**, I have delivered real-world feat
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,githubactions,postman" />
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile & Architecture
 - Flutter (Android)
 - Dart
-- Responsive UI & modern UX design
-- Material Design & custom animations
-
-### 🧠 State Management & Architecture
+- Responsive UI & modern UX
 - Bloc / Cubit
 - Clean Architecture
 - MVVM
-- SOLID Principles
-- Separation of Concerns
-- Scalable & maintainable codebases
+- SOLID principles
+- Scalable & maintainable code
 
-### 🌐 Backend & APIs
-- Firebase (Authentication, Firestore, Cloud Messaging)
-- Supabase (Authentication, Database, Realtime)
-- RESTful APIs
-- JSON data handling
-
-### 💾 Local Storage & Offline Support
-- Hive
-- SharedPreferences
-- SQLite
-- Offline-first application design
-
-### 📍 Maps, Location & Device Features
-- OpenStreetMap (OSM)
-- Location-based services
-- Geofencing concepts
-- Camera & media access
-- File upload & image handling
-
-### 🔐 Security & Authentication
-- Secure authentication flows
-- flutter_secure_storage
-- Data validation & protection
-
-### ⚙️ Tools & Workflow
-- Git & GitHub
-- GitHub Actions (CI/CD basics)
-- Postman
-- Debugging & performance optimization
-
-### 🚀 Deployment
+### 🌐 Backend, Data & Workflow
+- Firebase (Auth, Firestore, Cloud Messaging)
+- Supabase (Auth, Database, Realtime)
+- REST APIs & JSON
+- Hive, SharedPreferences, SQLite
+- OpenStreetMap (OSM) & location services
+- Git, GitHub, GitHub Actions
+- Postman & API debugging
 - Google Play Store publishing
-- App signing & release builds
-- Versioning & production updates
 
 ---
 
 ## 🌟 Projects
 
-## 🧒 Children Learning App — **Marrah wa Tallam**
+## 🧒 **Children Learning App — Marrah wa Tallam**
 <a href="https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam">
   <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="48"/>
 </a>
 
-A **modern, interactive (تفاعليه) children learning application** designed to teach kids basic English concepts in an **attractive and effective way**.
+A modern children learning application designed to help kids **learn Arabic basics in an engaging and effective way**, combining structured lessons with educational games.
 
 ### 📚 Learning Content
-- Learning **letters, numbers, colors, clothes, food, and school supplies**
-- Helps children **learn pronunciation and basic speaking**
-- Visual and audio-based learning for better understanding
+- Learning **Arabic letters and numbers**
+- Recognizing **colors, clothes, food, and school supplies**
+- Supporting correct pronunciation through audio and visuals
+- Structured sections that gradually build basic language understanding
 
 ### 🎮 Games & Activities
-- Multiple-choice learning games
-- Drawing screen to enhance creativity
-- Ordering **numbers and letters**
-- Guess-the-shadow games
-- Fun, engaging mini-games to strengthen memory and learning retention
+- Multiple-choice games to reinforce learning
+- Drawing screen to improve creativity and letter recognition
+- Ordering games for **numbers and letters**
+- Guess-the-shadow games to enhance visual memory
+- Educational mini-games designed to improve focus and retention
 
-Designed with a **child-friendly modern UI** and smooth animations, focusing on **learning through play**.
+The app uses a **modern, child-friendly design** with smooth animations, ensuring learning remains enjoyable while building strong foundational skills.
 
 **Tech:** Flutter, Dart, Modular Architecture
 
 ---
 
-## 🌍 PageX — Community Driven App
+## 🌍 **PageX — Community Driven App**
 <img src="https://img.shields.io/badge/📱%20Play%20Store-Coming%20Soon-orange?style=for-the-badge&logo=googleplay&logoColor=white" height="48"/>
 
-A **community-driven mobile application** that allows users to **exchange, sell, buy, or donate books**.
+A community-driven mobile application that enables users to **exchange, sell, buy, or donate books** within their local community.
 
-- Supports listing and discovering books within the community
-- Encourages knowledge sharing and collaboration
-- **Real-time chat** between users
-- **Push notifications using Firebase Cloud Messaging (FCM)**
-- Designed for scalability using MVVM architecture
+### Key Features
+- Create and browse book listings easily
+- Connect users who want to share or trade books
+- Built around the idea of community collaboration and knowledge sharing
+- **Real-time chat** to allow direct communication between users
+- **Push notifications using Firebase Cloud Messaging (FCM)** for messages and updates
+
+The application is designed with scalability in mind, allowing future expansion while maintaining a smooth and responsive user experience.
 
 **Tech:** Flutter, Supabase, Firebase Cloud Messaging
 
 ---
 
-## 🚗 Agency-Based Car Rental App
+## 🚗 **Agency-Based Car Rental App**
 <a href="https://github.com/sayedkouta442/car_rental">
   <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/>
 </a>
 
-A full-featured **agency-based car rental platform** connecting users with rental agencies.
+A full-featured agency-based car rental platform built to connect users with rental agencies efficiently.
 
-- Map view showing nearby agencies and user location
-- Search by **brand & model** with advanced filters (SUV, Sedan, Manual, Automatic)
-- Top brands, full car list, and favorites
+### Key Features
+- Map view displaying user location and nearby agencies
+- Search by **brand and model** with advanced filters (SUV, Sedan, Manual, Automatic)
+- Display top brands, full car lists, and favorites
 - Offline support using **Hive caching**
-- Detailed car pages with full specifications
-- Custom **date-range picker (AM/PM)**
-- **Stripe payment integration** and cash-on-delivery option
-- User features: license upload, contracts, bookings, profile management
-- Pagination and local storage for performance
+- Detailed car pages with specifications and booking options
+- Custom date-range picker with AM/PM support
+- **Stripe payment integration** with cash-on-delivery option
+- User features including license upload, contracts, bookings, and profile management
+- Pagination and local storage for improved performance
 
 **Tech:** Flutter, Supabase, Stripe, Hive, Cubit, Clean Architecture
 
 ---
 
-## ⏱️ Attendance & HR Management App
+## ⏱️ **Attendance & HR Management App**
 <a href="https://github.com/sayedkouta442/attendance_appp">
   <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/>
 </a>
 
-A comprehensive **Attendance Management & HR solution** designed to simplify workforce operations.
+A comprehensive attendance and HR management solution designed to streamline workforce operations.
 
-- **Location-based check-in/out** to verify on-site presence
-- **Face recognition security** to prevent fraudulent attendance
-- Leave requests and approvals for employees and managers
+### Key Features
+- Location-based check-in and check-out to verify on-site presence
+- Face recognition security to prevent fraudulent attendance
+- Leave request and approval workflows for employees and managers
 - Attendance history and analytics for HR visibility
-- Improves accuracy, transparency, and reduces administrative effort
+- Designed to improve accuracy, transparency, and reduce administrative effort
 
 **Tech:** Flutter, Supabase, Google ML Kit, OpenStreetMap, Cubit
 
 ---
 
-## 🎬 Movie Discovery App (TMDb)
+## 🎬 **Movie Discovery App (TMDb)**
 <a href="https://github.com/sayedkouta442/movie_app">
   <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/>
 </a>
 
-A movie discovery application for browsing **popular, top-rated, and trending movies**.
+A movie discovery application that allows users to explore **popular, top-rated, and trending movies** with a smooth browsing experience.
 
-- Real-time integration with TMDb API
+### Key Features
+- Real-time integration with the TMDb API
 - Infinite scrolling with smooth pagination
 - Offline-first experience using local caching
-- Clean, responsive UI with intuitive UX
+- Clean, responsive UI focused on usability and performance
 
 **Tech:** Flutter, Clean Architecture, Cubit, Hive
 
@@ -203,3 +180,4 @@ A movie discovery application for browsing **popular, top-rated, and trending mo
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="52"/>
   </a>
 </p>
+
