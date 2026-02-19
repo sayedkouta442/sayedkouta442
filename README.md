@@ -68,17 +68,17 @@ I focus on developing **user-focused mobile solutions** with clean architecture,
 
 ## 🌟 Projects
 
-# 🌍 **PageX — Community Driven App**
+# 🌍 **PageX – Community Book Exchange App**
 <a href="https://play.google.com/store/apps/details?id=io.bookchange.app">
   <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="48"/>
 </a>
 
-A scalable, community-focused platform designed to foster knowledge sharing by enabling **users (المستخدمين)** to exchange, sell, or donate books within their local neighborhoods.
+A scalable, community-focused platform designed to foster knowledge sharing by enabling users to exchange, sell, or donate books within their local neighborhoods.
 
 ### Key Features
 - **Marketplace Logic:** Sophisticated system to create, browse, and manage book listings with category filtering.
 - **Real-Time Communication:** Direct user-to-user interaction powered by a **Real-time Chat engine**.
-- **Instant Engagement:** Full integration of **Firebase Cloud Messaging (FCM)** for push notifications, ensuring **users (المستخدمين)** never miss an exchange request or message.
+- **Instant Engagement:** Full integration of **Firebase Cloud Messaging (FCM)** for push notifications, ensuring users never miss an exchange request or message.
 - **Community Collaboration:** Built on a collaborative logic to bridge the gap in local resource distribution.
 
 **Tech:** Flutter, Supabase Realtime, Firebase Cloud Messaging, MVVM Architecture.
