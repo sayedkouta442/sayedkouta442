@@ -45,7 +45,7 @@ I focus on developing **user-focused mobile solutions** with clean architecture,
 </p>
 
 ### 📱 Mobile & Architecture
-- Flutter (Android)
+- Flutter (Android/IOS)
 - Dart
 - Responsive UI & modern UX
 - Bloc / Cubit
