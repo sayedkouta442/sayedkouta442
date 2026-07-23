@@ -66,19 +66,6 @@ I build **user-focused mobile solutions** with **Clean Architecture**, scalable 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedkouta442&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedkouta442&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedkouta442&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🌟 Projects
 
 ## 🏥 **Pharmia – B2B Pharmacy Ordering App**
