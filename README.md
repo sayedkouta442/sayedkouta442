@@ -1,85 +1,129 @@
 <h1 align="center">Hi 👋, I'm Elsayed Kouta</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Flutter Developer · Cross-Platform Mobile Apps</h3>
+
+<p align="center">
+  <b>6+ production-ready apps</b> &nbsp;•&nbsp; <b>3 published on Google Play &amp; the App Store</b> &nbsp;•&nbsp; Clean Architecture &amp; Bloc/Cubit
+</p>
 
 <br/>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F_SWAux9zO4MafHXlaQiyIElPE8SfwjM/view">
-    <img src="https://img.shields.io/badge/📄%20Download%20CV-black?style=for-the-badge&logo=googledrive&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/📄%20Download%20CV-black?style=for-the-badge&logo=googledrive&logoColor=white" height="46"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://sayedkouta442.github.io/Elsayed_kouta_portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="46"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/201010220187">
-    <img src="https://img.shields.io/badge/💬%20WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="46"/>
   </a>
 </p>
 
-<br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/elsayed-kouta-7183b8336/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:koutaelsayed@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/📧%20Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Experience
+## 👨‍💻 About Me
 
-Flutter Developer with hands-on experience building **production-ready mobile applications** using Flutter & Dart, including **apps published on Google Play Store**.  
-I focus on developing **user-focused mobile solutions** with clean architecture, scalable codebases, and real-world features such as payments, maps, real-time communication, push notifications, offline support, and secure authentication through freelance and independent projects.
+Flutter Developer with **1+ year of experience** building **production-ready cross-platform mobile applications** using Flutter & Dart — with **3 apps published on Google Play and the Apple App Store**.
+
+I build **user-focused mobile solutions** with **Clean Architecture**, scalable codebases, and real-world features such as payments, maps, real-time communication, push notifications, OCR, offline support, and secure authentication. Currently building B2B pharmaceutical supply-chain apps at **Pharmia Tech**, alongside contract and freelance work.
+
+> 📍 Tanta, Egypt · Open to Cairo · Available for **remote, onsite, and freelance** opportunities.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Type | Period |
+|------|---------|------|--------|
+| **Flutter Developer** | Pharmia Tech | Remote · Full-time | Mar 2026 – Present |
+| **Flutter Developer** | ACS – A Core Solution | Remote · Contract | Aug 2025 |
+| **Flutter Developer** | Freelance | Remote | 2024 |
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,githubactions,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,java,cpp,git,github,githubactions,postman,androidstudio,vscode" />
 </p>
 
 ### 📱 Mobile & Architecture
-- Flutter (Android/IOS)
-- Dart
-- Responsive UI & modern UX
-- Bloc / Cubit
-- Clean Architecture
-- MVVM
-- SOLID principles
-- Scalable & maintainable code
+- Flutter (Android / iOS / Web) · Dart
+- Clean Architecture · MVVM · SOLID Principles · Design Patterns
+- Bloc / Cubit · Dependency Injection (GetIt) · Provider
+- Responsive UI, modern UX, animations & localization (RTL)
 
-### 🌐 Backend, Data & Workflow
-- Firebase (Auth, Firestore, Cloud Messaging)
-- Supabase (Auth, Database, Realtime)
-- REST APIs & JSON
-- Hive, SharedPreferences, SQLite
-- OpenStreetMap (OSM) & location services
-- Git, GitHub, GitHub Actions
-- Postman & API debugging
-- Google Play Store publishing
+### 🌐 Backend, Data & DevOps
+- Firebase (Auth, Firestore, FCM, Crashlytics, Remote Config, Analytics)
+- Supabase (Auth, Database, Realtime, Storage)
+- REST APIs (Dio, Retrofit, Http) & JSON
+- Hive · SharedPreferences · SQLite · Drift · Secure Storage
+- Stripe Payments · Google Maps · OpenStreetMap · OCR · freeRASP security
+- Git · GitHub Actions (CI/CD) · Flutter Flavors · Postman
+- Google Play Store & Apple App Store publishing
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedkouta442&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedkouta442&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedkouta442&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌟 Projects
 
-# 🌍 **PageX – Community Book Exchange App**
-<a href="https://play.google.com/store/apps/details?id=io.bookchange.app">
-  <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="48"/>
+## 🏥 **Pharmia – B2B Pharmacy Ordering App**
+<a href="https://play.google.com/store/apps/details?id=com.pharmiatech.pharmia">
+  <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="42"/>
+</a>
+<a href="https://apps.apple.com/eg/app/id6788810616">
+  <img src="https://img.shields.io/badge/%20App%20Store-Published-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="42"/>
 </a>
 
-A scalable, community-focused platform designed to foster knowledge sharing by enabling users to exchange, sell, or donate books within their local neighborhoods.
+A cross-platform B2B platform connecting pharmacies with distributors across the pharmaceutical supply chain — **published on Google Play & the App Store**.
+
+### Key Features
+- **Smart Ordering:** OCR-based medicine-list scanning to convert paper orders into digital carts instantly.
+- **Secure Multi-Account Auth:** Multiple account support with **SMS OTP** verification.
+- **Real-Time Engagement:** **Firebase Cloud Messaging** for foreground/background push, plus **Crashlytics & Remote Config** for stability and controlled rollouts.
+- **Enterprise-Grade Security:** **freeRASP** runtime protection and secure storage of sensitive data.
+- **Localized Experience:** Full **Arabic/English (RTL)** localization, light/dark themes, Google Maps, cached images, and edge-to-edge UI.
+
+**Tech:** Flutter, Clean Architecture, Cubit, Dio + Retrofit, Firebase (FCM, Crashlytics, Remote Config), Google Maps, freeRASP.
+
+---
+
+## 🌍 **PageX – Community Book Exchange App**
+<a href="https://play.google.com/store/apps/details?id=io.bookchange.app">
+  <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="42"/>
+</a>
+
+A scalable, community-focused platform that fosters knowledge sharing by enabling users to exchange, sell, or donate books within their local neighborhoods.
 
 ### Key Features
 - **Marketplace Logic:** Sophisticated system to create, browse, and manage book listings with category filtering.
-- **Real-Time Communication:** Direct user-to-user interaction powered by a **Real-time Chat engine**.
-- **Instant Engagement:** Full integration of **Firebase Cloud Messaging (FCM)** for push notifications, ensuring users never miss an exchange request or message.
-- **Community Collaboration:** Built on a collaborative logic to bridge the gap in local resource distribution.
+- **Real-Time Communication:** Direct user-to-user interaction powered by a **real-time chat engine**.
+- **Instant Engagement:** Full **Firebase Cloud Messaging (FCM)** integration so users never miss an exchange request or message.
+- **Community Collaboration:** Built to bridge the gap in local resource distribution.
 
 **Tech:** Flutter, Supabase Realtime, Firebase Cloud Messaging, MVVM Architecture.
 
@@ -87,40 +131,40 @@ A scalable, community-focused platform designed to foster knowledge sharing by e
 
 ## 🧒 **Children Learning App — Marrah wa Tallam**
 <a href="https://play.google.com/store/apps/details?id=com.sayedkouta.marrahwatallam">
-  <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/▶%20Google%20Play-Published-success?style=for-the-badge&logo=googleplay&logoColor=white" height="42"/>
 </a>
 
-A modern, high-performance educational platform published on the Play Store, specifically engineered to revolutionize how children learn Arabic through interactive gamification and audio-visual reinforcement.
+A modern, high-performance educational platform published on the Play Store, engineered to revolutionize how children learn Arabic through interactive gamification and audio-visual reinforcement.
 
 ### 📚 Comprehensive Learning Content
 - **Linguistic Foundation:** Systematic modules for mastering Arabic letters and numbers with native-level audio support.
-- **Categorized Discovery:** Specialized sections for recognizing colors, clothes, food, and school supplies using high-quality assets.
-- **Phonetic Mastery:** Integrated **Text-to-Speech** engine to assist in correct pronunciation, building a strong foundation for language fluency.
+- **Categorized Discovery:** Specialized sections for colors, clothes, food, and school supplies using high-quality assets.
+- **Phonetic Mastery:** Integrated **Text-to-Speech** engine to assist correct pronunciation and build language fluency.
 - **Progressive Learning:** Structured lessons that evolve in difficulty to match the child's cognitive development.
 
 ### 🎮 Gamified Reinforcement & Activities
 - **Interactive Quizzing:** Intelligent multiple-choice games designed to measure and reward retention.
 - **Creativity Suite:** A dedicated drawing screen to improve motor skills and letter recognition.
-- **Cognitive Development:** Logic-based games including shadow-guessing to enhance visual memory and ordering games for numerical sequences.
-- **User Experience:** Child-friendly UI with smooth animations and vibrant feedback systems to keep engagement high.
+- **Cognitive Development:** Shadow-guessing and ordering games to enhance visual memory and numerical sequencing.
+- **User Experience:** Child-friendly UI with smooth animations and vibrant feedback to keep engagement high.
 
-**Tech:** Flutter, Dart, Modular Architecture, Play Store Deployment.
+**Tech:** Flutter, Dart, Modular Architecture, Text-to-Speech, Play Store Deployment.
 
 ---
 
 ## 🚗 **Agency-Based Car Rental App**
 <a href="https://github.com/sayedkouta442/car_rental">
-  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
 </a>
 
-A robust, full-stack rental ecosystem bridging the gap between agencies and customers through a high-fidelity mobile experience and secure financial integration.
+A robust, full-stack rental ecosystem bridging agencies and customers through a high-fidelity mobile experience and secure financial integration.
 
 ### Key Features
-- **Dynamic Discovery:** Interactive map view showing user proximity to agencies and a powerful search engine filtering by brand, model, and transmission (Manual/Automatic).
+- **Dynamic Discovery:** Interactive map view showing proximity to agencies and a powerful search filtering by brand, model, and transmission.
 - **Advanced UX:** Custom date-range pickers with AM/PM support and detailed specification pages for every vehicle.
-- **Secure Payments:** Production-ready **Stripe payment gateway** integration supporting both digital transactions and cash-on-delivery.
-- **Reliability:** Built-in offline support using **Hive caching** to maintain performance in low-connectivity areas.
-- **User Management:** Full profile suite including license uploads, digital contracts, and real-time booking history.
+- **Secure Payments:** Production-ready **Stripe** integration supporting digital transactions and cash-on-delivery.
+- **Reliability:** Offline support via **Hive caching** to maintain performance in low-connectivity areas.
+- **User Management:** Full profile suite with license uploads, digital contracts, and real-time booking history.
 
 **Tech:** Flutter, Supabase, Stripe API, Hive, Cubit, Clean Architecture.
 
@@ -128,16 +172,16 @@ A robust, full-stack rental ecosystem bridging the gap between agencies and cust
 
 ## ⏱️ **Attendance & HR Management App**
 <a href="https://github.com/sayedkouta442/attendance_appp">
-  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
 </a>
 
-A professional HRTech solution engineered to eliminate administrative friction and ensure absolute accuracy in workforce tracking using biometric and geolocation data.
+A professional HRTech solution engineered to eliminate administrative friction and ensure accuracy in workforce tracking using biometric and geolocation data.
 
 ### Key Features
-- **Biometric Security:** Utilizes **Google ML Kit** for high-accuracy Face Recognition, preventing fraudulent check-ins and "buddy punching."
-- **Geospatial Validation:** Integrated **OpenStreetMap (OSM)** and geofencing to verify that employees are physically on-site before permitting check-in.
-- **HR Lifecycle Automation:** Streamlined request and approval workflows for leave management, giving managers a clear digital trail.
-- **Data Analytics:** Real-time dashboards showing attendance history and workforce insights to improve HR transparency and reduce manual effort.
+- **Biometric Security:** **Google ML Kit** face recognition to prevent fraudulent check-ins and "buddy punching."
+- **Geospatial Validation:** **OpenStreetMap (OSM)** and geofencing to verify employees are on-site before check-in.
+- **HR Lifecycle Automation:** Streamlined request and approval workflows for leave management with a clear digital trail.
+- **Data Analytics:** Real-time dashboards showing attendance history and workforce insights.
 
 **Tech:** Flutter, Supabase, Google ML Kit, OpenStreetMap API, Cubit State Management.
 
@@ -145,29 +189,36 @@ A professional HRTech solution engineered to eliminate administrative friction a
 
 ## 🎬 **Movie Discovery App (TMDb)**
 <a href="https://github.com/sayedkouta442/movie_app">
-  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
 </a>
 
 A high-fidelity media browsing application showcasing mastery of API integration, data persistence, and smooth UI performance.
 
 ### Key Features
-- **Real-Time Integration:** Synchronized with the **TMDb API** to fetch trending, popular, and top-rated content instantly.
-- **Infinite Performance:** Implemented smooth pagination with infinite scrolling for an uninterrupted browsing experience.
-- **Offline-First:** Robust local caching ensures users can browse previously loaded movie data without an active internet connection.
-- **Security:** Integrated `flutter_secure_storage` to handle sensitive user authentication data securely.
+- **Real-Time Integration:** Synced with the **TMDb API** to fetch trending, popular, and top-rated content instantly.
+- **Infinite Performance:** Smooth pagination with infinite scrolling for uninterrupted browsing.
+- **Offline-First:** Robust local caching to browse previously loaded data without an internet connection.
+- **Security:** `flutter_secure_storage` to handle sensitive authentication data securely.
 
 **Tech:** Flutter, Clean Architecture, Cubit, Hive, TMDb API.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:koutaelsayed@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="52"/>
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="46"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/elsayed-kouta-7183b8336/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="52"/>
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="46"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sayedkouta442.github.io/Elsayed_kouta_portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="46"/>
   </a>
 </p>
+
+<p align="center"><i>Open to remote, onsite, and freelance Flutter opportunities — let's build something great together.</i></p>
+
