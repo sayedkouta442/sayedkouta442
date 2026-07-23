@@ -43,16 +43,6 @@ I build **user-focused mobile solutions** with **Clean Architecture**, scalable 
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Type | Period |
-|------|---------|------|--------|
-| **Flutter Developer** | Pharmia Tech | Remote · Full-time | Mar 2026 – Present |
-| **Flutter Developer** | ACS – A Core Solution | Remote · Contract | Aug 2025 |
-| **Flutter Developer** | Freelance | Remote | 2024 |
-
----
-
 ## 🛠️ Skills & Technologies
 
 <p align="left">
